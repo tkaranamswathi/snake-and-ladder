@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC3NOPLAY\bin\Debug\net6.0\UC3NOPLAY.exe
+C:\Users\swath\source\repos\UC3NOPLAY\bin\Debug\net6.0\UC3NOPLAY.deps.json
+C:\Users\swath\source\repos\UC3NOPLAY\bin\Debug\net6.0\UC3NOPLAY.runtimeconfig.json
+C:\Users\swath\source\repos\UC3NOPLAY\bin\Debug\net6.0\UC3NOPLAY.dll
+C:\Users\swath\source\repos\UC3NOPLAY\bin\Debug\net6.0\UC3NOPLAY.pdb
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\UC3NOPLAY.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\UC3NOPLAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\UC3NOPLAY.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\UC3NOPLAY.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\UC3NOPLAY.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\UC3NOPLAY.dll
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\refint\UC3NOPLAY.dll
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\UC3NOPLAY.pdb
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\UC3NOPLAY.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC3NOPLAY\obj\Debug\net6.0\ref\UC3NOPLAY.dll
