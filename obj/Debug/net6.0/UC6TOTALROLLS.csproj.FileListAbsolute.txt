@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC6TOTALROLLS\bin\Debug\net6.0\UC6TOTALROLLS.exe
+C:\Users\swath\source\repos\UC6TOTALROLLS\bin\Debug\net6.0\UC6TOTALROLLS.deps.json
+C:\Users\swath\source\repos\UC6TOTALROLLS\bin\Debug\net6.0\UC6TOTALROLLS.runtimeconfig.json
+C:\Users\swath\source\repos\UC6TOTALROLLS\bin\Debug\net6.0\UC6TOTALROLLS.dll
+C:\Users\swath\source\repos\UC6TOTALROLLS\bin\Debug\net6.0\UC6TOTALROLLS.pdb
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\UC6TOTALROLLS.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\UC6TOTALROLLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\UC6TOTALROLLS.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\UC6TOTALROLLS.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\UC6TOTALROLLS.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\UC6TOTALROLLS.dll
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\refint\UC6TOTALROLLS.dll
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\UC6TOTALROLLS.pdb
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\UC6TOTALROLLS.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC6TOTALROLLS\obj\Debug\net6.0\ref\UC6TOTALROLLS.dll
