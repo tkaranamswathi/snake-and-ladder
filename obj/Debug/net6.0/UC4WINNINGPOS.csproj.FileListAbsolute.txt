@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\UC4WINNINGPOS.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\UC4WINNINGPOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\UC4WINNINGPOS.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\UC4WINNINGPOS.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\UC4WINNINGPOS.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC4WINNINGPOS\bin\Debug\net6.0\UC4WINNINGPOS.exe
+C:\Users\swath\source\repos\UC4WINNINGPOS\bin\Debug\net6.0\UC4WINNINGPOS.deps.json
+C:\Users\swath\source\repos\UC4WINNINGPOS\bin\Debug\net6.0\UC4WINNINGPOS.runtimeconfig.json
+C:\Users\swath\source\repos\UC4WINNINGPOS\bin\Debug\net6.0\UC4WINNINGPOS.dll
+C:\Users\swath\source\repos\UC4WINNINGPOS\bin\Debug\net6.0\UC4WINNINGPOS.pdb
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\UC4WINNINGPOS.dll
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\refint\UC4WINNINGPOS.dll
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\UC4WINNINGPOS.pdb
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\UC4WINNINGPOS.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC4WINNINGPOS\obj\Debug\net6.0\ref\UC4WINNINGPOS.dll
