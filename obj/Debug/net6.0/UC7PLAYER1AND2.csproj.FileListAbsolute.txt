@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC7PLAYER1AND2\bin\Debug\net6.0\UC7PLAYER1AND2.exe
+C:\Users\swath\source\repos\UC7PLAYER1AND2\bin\Debug\net6.0\UC7PLAYER1AND2.deps.json
+C:\Users\swath\source\repos\UC7PLAYER1AND2\bin\Debug\net6.0\UC7PLAYER1AND2.runtimeconfig.json
+C:\Users\swath\source\repos\UC7PLAYER1AND2\bin\Debug\net6.0\UC7PLAYER1AND2.dll
+C:\Users\swath\source\repos\UC7PLAYER1AND2\bin\Debug\net6.0\UC7PLAYER1AND2.pdb
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\UC7PLAYER1AND2.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\UC7PLAYER1AND2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\UC7PLAYER1AND2.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\UC7PLAYER1AND2.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\UC7PLAYER1AND2.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\UC7PLAYER1AND2.dll
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\refint\UC7PLAYER1AND2.dll
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\UC7PLAYER1AND2.pdb
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\UC7PLAYER1AND2.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC7PLAYER1AND2\obj\Debug\net6.0\ref\UC7PLAYER1AND2.dll
