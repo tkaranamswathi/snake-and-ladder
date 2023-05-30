@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC5EXACTNUMBER\bin\Debug\net6.0\UC5EXACTNUMBER.exe
+C:\Users\swath\source\repos\UC5EXACTNUMBER\bin\Debug\net6.0\UC5EXACTNUMBER.deps.json
+C:\Users\swath\source\repos\UC5EXACTNUMBER\bin\Debug\net6.0\UC5EXACTNUMBER.runtimeconfig.json
+C:\Users\swath\source\repos\UC5EXACTNUMBER\bin\Debug\net6.0\UC5EXACTNUMBER.dll
+C:\Users\swath\source\repos\UC5EXACTNUMBER\bin\Debug\net6.0\UC5EXACTNUMBER.pdb
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\UC5EXACTNUMBER.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\UC5EXACTNUMBER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\UC5EXACTNUMBER.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\UC5EXACTNUMBER.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\UC5EXACTNUMBER.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\UC5EXACTNUMBER.dll
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\refint\UC5EXACTNUMBER.dll
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\UC5EXACTNUMBER.pdb
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\UC5EXACTNUMBER.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC5EXACTNUMBER\obj\Debug\net6.0\ref\UC5EXACTNUMBER.dll
